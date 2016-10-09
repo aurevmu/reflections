@@ -10,3 +10,7 @@ It helps to keep track of the files that will be used but it won't bog us down w
 How can you use the staging area to make sure you have one commit per logical change?
 
 We can open and edit a file to fix a bug or introduce a new feature and commit once we're done knowing that we worked on one logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are helpful when we're trying to intriduce an experimental feature or have a different level, or language version of the game. 
