@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The stage is set for Git to work, you can start doing commits and take advantage of version control.
