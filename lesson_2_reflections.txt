@@ -5,5 +5,8 @@ The stage is set for Git to work, you can start doing commits and take advantage
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area keeps track of files we add from working directory but it doesn't track changes to those files yet, like the repository would once we commit.
-It help to keep track of the files that will be used but it won't bog us down with commits yet since we haven't started working with them yet.
+It helps to keep track of the files that will be used but it won't bog us down with commits yet since we haven't started working with them yet.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+We can open and edit a file to fix a bug or introduce a new feature and commit once we're done knowing that we worked on one logical change.
