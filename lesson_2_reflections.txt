@@ -22,3 +22,7 @@ Diagram makes it easy to see the parent-child relations between commits and wher
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging two branches takes the code from both into one working version. The new branch is a child of two eaully contributing parents. 
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Automatic merging saves a lot of time when it's obvious and straightforward. Reviewing evertyhing manually would add a lot of unnecessary time.
