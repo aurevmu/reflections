@@ -13,4 +13,4 @@ We can open and edit a file to fix a bug or introduce a new feature and commit o
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-Branches are helpful when we're trying to intriduce an experimental feature or have a different level, or language version of the game. 
+Branches are helpful when we're trying to introduce an experimental feature or have a different level, or language version of the game. 
