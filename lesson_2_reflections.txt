@@ -14,3 +14,8 @@ We can open and edit a file to fix a bug or introduce a new feature and commit o
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches are helpful when we're trying to introduce an experimental feature or have a different level, or language version of the game. 
+
+How do the diagrams help you visualize the branch structure?
+
+Diagram makes it easy to see the parent-child relations between commits and where the branches started. It also shows commits that we won't be able to get to wihout the commit ID.
+
